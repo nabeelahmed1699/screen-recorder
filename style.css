@@ -43,6 +43,12 @@ nav h2 {
     background: black;
 }
 
+.github-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
 .cntrl-btn {
     display: inline-block;
     font-size: 1rem;
